@@ -52,6 +52,12 @@ export const HomePage = () => {
             color: '#FFFFFF',
             borderRadius: '5px',
           }}>Calculator</Link>
+          <Link to="/recipe-collector " style={{
+            padding: '10px 15px',
+            background: '#007BFF',
+            color: '#FFFFFF',
+            borderRadius: '5px',
+          }}>RecipeCollector</Link>
         </nav>
       </div>
     </div>
